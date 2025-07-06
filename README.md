@@ -2,7 +2,6 @@
 
 Welcome to my personal front-end challenge! This project is a pixel-perfect recreation of a beautiful visual designer portfolio template — **"Showcasy"** — built entirely using **HTML** and **CSS**.
 
-![Showcasy Preview](./showcasy%20img.jpg)
 
 ---
 
@@ -72,6 +71,10 @@ That's it!
 ## 🧑‍🎨 Credits
 
 Original UI Design: \[https://showcasy.webflow.io/home-pages/home-v3]
+
+---
+
+![Showcasy Preview](./showcasy%20img.jpg)
 
 ---
 
